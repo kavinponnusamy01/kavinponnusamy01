@@ -84,27 +84,6 @@ A mobile-first hub for a 200-member club — event calendars, galleries, testimo
 
 <br/>
 
-## 📡 the numbers, if you're into that
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KavinPonnusamy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B197FC&icon_color=B197FC&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinPonnusamy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B197FC" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=KavinPonnusamy&theme=radical&hide_border=true&background=0d1117&ring=B197FC&fire=B197FC" alt="streak stats"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KavinPonnusamy&theme=redical&hide_border=true&bg_color=0d1117&color=B197FC&line=B197FC&point=fff" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KavinPonnusamy&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15" />
-</div>
-
-<br/>
-
 ## 🗂️ the résumé version, condensed
 
 <details>
